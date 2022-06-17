@@ -1,0 +1,34 @@
+.fullContainer {
+  padding-top: 10vh;
+}
+/* 
+.iconImage {
+  height: 10vh;
+} */
+
+#searchButton {
+  margin-bottom: 3vh;
+}
+
+.mild {
+  color: green;
+}
+
+.moderate {
+  color: yellow;
+}
+
+.severe {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+
+
+
+
