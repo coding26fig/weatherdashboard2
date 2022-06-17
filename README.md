@@ -29,7 +29,7 @@ My goal for this project was to build a weather dashboard that will run in the b
 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/97489289/163406390-a5835c2c-30f7-4797-9d75-cc92193bbbe3.png)
+![image](https://user-images.githubusercontent.com/97489289/174202577-422d720f-6dae-40aa-a523-f41bbce1e358.png)
 
 
 ## Deployed Link
