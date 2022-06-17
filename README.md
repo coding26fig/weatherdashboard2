@@ -33,7 +33,7 @@ My goal for this project was to build a weather dashboard that will run in the b
 
 
 ## Deployed Link
-https://coding26fig.github.io/Weather-dashboard/
+https://coding26fig.github.io/weatherdashboard2/
 
 ## Project Status
 Project is: Complete
